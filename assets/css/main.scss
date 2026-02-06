@@ -42,17 +42,18 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Never show the mobile hamburger menu */
+/* Hide by default (no-js state) */
+.no-js .greedy-nav__toggle,
+.no-js .theme-toggle {
+  visibility: hidden;
+}
+
+/* Never show hamburger menu at all */
 .greedy-nav__toggle {
   display: none !important;
 }
 
-/* Hide theme toggle until JS sets correct mode */
-.theme-toggle {
-  visibility: hidden;
-}
-
-/* Show toggle only after JS is ready */
+/* Allow theme toggle only once JS is ready */
 .js .theme-toggle {
   visibility: visible;
 }
