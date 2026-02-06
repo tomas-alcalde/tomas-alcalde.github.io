@@ -41,3 +41,20 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Never show the mobile hamburger menu */
+.greedy-nav__toggle {
+  display: none !important;
+}
+
+/* Hide theme toggle until JS sets correct mode */
+.theme-toggle {
+  visibility: hidden;
+}
+
+/* Show toggle only after JS is ready */
+.js .theme-toggle {
+  visibility: visible;
+}
+
+
