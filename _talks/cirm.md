@@ -4,7 +4,7 @@ collection: talks
 type: "Geometric and Probabilistic Aspects in QFT"
 permalink: /talks/epfl
 venue: "CIRM"
-date: 5/2026
+date: 9/2026
 location: "Marseille, France"
 ---
 
