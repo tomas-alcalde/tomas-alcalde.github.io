@@ -8,4 +8,4 @@ date: 5/2026
 location: "Lausanne, Switzerland"
 ---
 
-*Based on the papers on the coupling between Ising, XOR-Ising and Gaussian free fields. See [here](/files/xor_ising_gff_short.pdf) for the slides.*
+*See [here](/files/xor_ising_gff_short.pdf) for the slides.*
