@@ -4,7 +4,7 @@ collection: talks
 type: "EPFL Probability Seminar"
 permalink: /talks/epfl
 venue: "EPFL"
-date: 5/2026
+date: 9/2026
 location: "Lausanne, Switzerland"
 ---
 
