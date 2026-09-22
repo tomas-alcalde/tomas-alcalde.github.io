@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Tomás Alcalde López",
+    "email": "tomas.alcalde@tuwien.ac.at",
+    "phone": "",
+    "website": "https://tomas-alcalde.github.io",
+    "summary": "Currently employed at Technische Universität Wien",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Vienna, Austria",
+      "countryCode": "AT",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=4E9NKl0AAAAJ&hl=en"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "Technische Universität Wien",
+      "area": "PhD in Mathematics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2023",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Cambridge",
+      "area": "MASt in Pure Mathematics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2022",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Durham",
+      "area": "BSc in Mathematics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2019",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "The Ising magnetisationn field and the Gaussian free field",
+      "publisher": "arXiv:2602.05886",
+      "releaseDate": "02/2026",
+      "website": "https://arxiv.org/abs/2602.05886",
+      "summary": "We construct a natural (and very surprising) coupling between the critical Ising magnetisation field and the Gaussian free field. We do so by proving convergence in the scaling limit of a novel, analogous coupling for discrete models."
+    },
+    {
+      "name": "Excursion decomposition of the XOR-Ising model",
+      "publisher": "arXiv:2602.06011",
+      "releaseDate": "02/2026",
+      "website": "https://arxiv.org/abs/2602.06011",
+      "summary": "We construct an excursion decomposition of the continuum XOR-Ising model, that more generally applies to the real and imaginary parts of the complex multiplicative chaos of a Gaussian free field. We also prove convergence in the scaling limit of the discrete excursion decomposition."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "The Ising magnetisation field and the Gaussian free field",
+      "event": "Universidad de Chile",
+      "date": "12/2025",
+      "location": "Santiago, Chile",
+      "description": ""
+    },
+    {
+      "name": "Complex multiplicative chaos and the Ashkin-Teller model",
+      "event": "CIRM",
+      "date": "9/2026",
+      "location": "Marseille, France",
+      "description": ""
+    },
+    {
+      "name": "The (XOR-)Ising model and the Gaussian free field",
+      "event": "EPFL",
+      "date": "5/2026",
+      "location": "Lausanne, Switzerland",
+      "description": ""
+    },
+    {
+      "name": "The (XOR-)Ising model and the Gaussian free field",
+      "event": "University of Vienna",
+      "date": "3/2026",
+      "location": "Vienna, Austria",
+      "description": ""
+    }
+  ],
+  "teaching": [],
+  "portfolio": []
+}
