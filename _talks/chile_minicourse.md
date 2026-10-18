@@ -8,4 +8,4 @@ date: 12/2025
 location: "Santiago, Chile"
 ---
 
-*One of the four talks part of a minicourse split with Marcin and Lorca, based on our paper with the same title.*
+*One of the four talks of a minicourse split with Marcin and Lorca, based on our paper [The Ising magnetisation field and the Gaussian free field]({% link _publications/ising_gff.md %}).*  

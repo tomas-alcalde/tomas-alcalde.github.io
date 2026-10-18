@@ -8,4 +8,4 @@ date: 3/2026
 location: "Vienna, Austria"
 ---
 
-*See [here](/files/xor_ising_gff.pdf) for the slides.*
+*See [here](/files/xor_ising_gff_short.pdf) for the slides.*
